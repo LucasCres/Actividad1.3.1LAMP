@@ -11,4 +11,18 @@
 ### Comprobamos 
 ![](https://github.com/LucasCres/Actividad1.3.1LAMP/blob/main/img/4.png)
 
+### Ahora hay que modificar el archivo que se encuentra en /etc/apache2/sites-avalible llamado 000-default.conf.
+
+![](https://github.com/LucasCres/Actividad1.3.1LAMP/blob/main/img/5.png)
+
+![](https://github.com/LucasCres/Actividad1.3.1LAMP/blob/main/img/6.png)
+
+### Despues creamos el documento info.php en /var/www/html
+![](https://github.com/LucasCres/Actividad1.3.1LAMP/blob/main/img/7.png)
+
+### Reiniciamos el servicio por si acaso.
+![](https://github.com/LucasCres/Actividad1.3.1LAMP/blob/main/img/8.png)
+
+
+
 
